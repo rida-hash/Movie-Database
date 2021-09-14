@@ -112,3 +112,29 @@ main{
 .movie:hover .overview{
     transform:translateY(0);
 }
+#tags{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.tags{
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: orange;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.tags.highlight{
+    background-color: red;
+}
+
+.noresult{
+    color: white;
+}
