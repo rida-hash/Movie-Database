@@ -6,4 +6,4 @@ Styled the website to be responsive and implemented a color rating system.
 ## Contributing
 
 Contributions are always welcome!
-This Project is currently under construction, deployed to be a part of my MLH Application
+This Project is currently under construction
